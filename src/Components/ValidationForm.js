@@ -25,7 +25,7 @@ const ValidationForm = () => {
     return (
         <form onSubmit={handleSubmit(onSubmit)} className='max-w-md mx-auto p-8 border rounded-lg bg-white box-shadow'>
 
-            <h2 className='text-lg font-bold mb-4'>
+            <h2 className='text-xl font-semibold mb-4'>
                 Validation Form
             </h2>
 
